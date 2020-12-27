@@ -41,8 +41,7 @@ I write down tips and lecture notes on my personal tech blog, which can be found
 know_more = AboutMe()
 know_more.about_me()
 ```
-## 🔧 Technologies & Tools
-
+## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=yellow&color=brown)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=6aa6f8&color=6aa6f8)
@@ -59,16 +58,22 @@ know_more.about_me()
 </ br>
 
 
-## 💁🏻‍♂️ Let's Connect 
-<a href="https://twitter.com/yuvrajdagur12">
-  <img align="left" alt="Yuvraj Dagur | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+## 😋 Let's Connect 
+<a href="https://twitter.com/yuvrajdagur12/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/yuvraj-dagur/">
-  <img align="left" alt="Yuvraj's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://linkedin.com/in/yuvraj-dagur/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://dev.to/thatfreakcoder/">
-  <img align="left" alt="DEV.to | thatfreakcoder" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/dev-dot-to.svg" />
+<a href="mailto:yuvraj.dagur928@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://yuvraj-dagur.medium.com/">
-  <img align="left" alt="Yuvraj Dagur Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
+<a href="yuvraj-dagur.medium.com">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="dev.to/thatfreakcoder/">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+</a>
+<a href="instagram.com/yuvraj_dagur">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
