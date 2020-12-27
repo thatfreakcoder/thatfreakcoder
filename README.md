@@ -41,12 +41,14 @@ I write down tips and lecture notes on my personal tech blog, which can be found
 know_more = AboutMe()
 know_more.about_me()
 ```
-## 🔧 Tools & Technologies
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=blue)
-![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=yellow&color=brown)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=6aa6f8&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=yellow)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=red&color=red)
+## 🔧 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/thatfreakcoder">
