@@ -71,12 +71,12 @@ know_more.about_me()
 <a href="mailto:yuvraj.dagur928@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="yuvraj-dagur.medium.com">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+<a href="https://yuvraj-dagur.medium.com">
+    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" />
 </a>
-<a href="dev.to/thatfreakcoder/">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+<a href="https://dev.to/thatfreakcoder/">
+    <img src="https://img.shields.io/badge/dev.to-white?style=for-the-badge&logo=dev.to&logoColor=black" />
 </a>
-<a href="instagram.com/yuvraj_dagur">
+<a href="https://instagram.com/yuvraj_dagur">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
