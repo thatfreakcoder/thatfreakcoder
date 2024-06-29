@@ -10,31 +10,33 @@
 class AboutMe:
     def __init__(self):
         self.name = "Yuvraj Dagur"
-        self.role = "Student - B.Tech in Computer Science and Engineering"
+        self.role = "Fullstack Developer | Generative AI Wizard"
         self.location = "Jaipur, Rajasthan (India)"
-        self.blog = "https://dev.to/thatfreakcoder/"
+        self.linkedin = "https://linkedin.com/in/yuvraj-dagur/"
         self.knowledge_base = [
+            "Fullstack Stack Web Development",
+            "Angular, React, Firebase, Node, Express, Flask, GCP"
             "Machine Learning",
-            "MEAN Stack Web Development",
-            "Server Side Scripting"
+            "Server Side Rendering",
+            "SEO and Page Speed Analytics"
         ]
-        self.knowledge_base.insert(0, "Deep Learning")
+        self.focus = "building SaaS products"
 
     def about_me(self):
         print(
             """Hello there, thanks for dropping by!
 
-This is {name}, I live in {location}. I am a {role} and recently I am focusing on {focus} for my personal growth.
+This is {name}, I live in {location}. I am a {role} and recently I am focusing on {focus} for my personal and professional growth.
 
 I have wide interests, but most of them are {knowledge_base}.
 
-I write down tips and lecture notes on my personal tech blog, which can be found here: {blog}""".format(
+Let's connect to explore more synergies. I am available on linkedin at: {linkedin}""".format(
                 name=self.name,
                 location=self.location,
                 role=self.role,
-                focus=self.knowledge_base[0],
+                focus=self.focus,
                 knowledge_base=", ".join(self.knowledge_base[1:]),
-                blog=self.blog,
+                linkedin=self.linkedin,
             )
         )
 
@@ -42,12 +44,12 @@ know_more = AboutMe()
 know_more.about_me()
 ```
 ## 🔧 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ebd834?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Docker-62C9D5?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
